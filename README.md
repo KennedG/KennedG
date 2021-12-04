@@ -5,6 +5,8 @@
 - 🌱Estudando JavaScript
 - 💬 Para contato use: guilhermekenned2006@gmail.com
 - 😄 Pronomes: Ele/dele
+- ✨Focado em JavaScript
+- 🎈 Quase não uso aqui.
 
 
 <div align="center">
