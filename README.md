@@ -15,8 +15,16 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198333517147/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12156336211?si=8dc7b227e52149cc)
 <div align="center">
-<a href="https://discord.com/users/493282797222494230" target="_blank">
-<img src="https://badges.pufler.dev/visits/KennedG/KennedG" />
+<a href="https://discord.com/user/493282797222494230" target="_blank">
+<img width="45%" src="https://lanyard.cnrad.dev/api/493282797222494230?bg=151515&borderRadius=5px" alt="Discord Status"/>
+    </a>
+
+<div align="center">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KennedG&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
+        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KennedG&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
+      <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KennedG&theme=midnight-purple&hide_border=true&background=151515">
+</div>
   <a href="https://github.com/KennedG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedG&layout=compact&langs_count=7&true&theme=midnight-purple"/>
@@ -39,4 +47,10 @@
 
  
   ![Snake animation](https://github.com/KennedG/KennedG/blob/output/github-contribution-grid-snake.svg)
+</div>
+<br>
+
+<div align="center">
+    <img src="https://badges.pufler.dev/visits/KennedG/KennedG" />
+    <img src="https://badges.pufler.dev/repos/KennedG" />
 </div>
