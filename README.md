@@ -14,9 +14,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kennedzin1)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198333517147/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12156336211?si=8dc7b227e52149cc)
-<div align="center">
-<a href="https://discord.com/user/493282797222494230" target="_blank">
-<img width="45%" src="https://lanyard.cnrad.dev/api/493282797222494230?bg=151515&borderRadius=5px" alt="Discord Status"/>
+
+
+<p align="center">
+    <br>
+  <a href="https://discord.com/users/493282797222494230" target="_blank">
+    <img width="45%" src="https://lanyard.cnrad.dev/api/493282797222494230?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Status"/>
     </a>
 
 <div align="center">
