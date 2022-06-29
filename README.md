@@ -8,9 +8,9 @@
 - 🎈 Quase não uso aqui.
 - 🦊 Me contate / Contact me:
 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vk8sEtb4n5)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guilhermekenned2006@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vk8sEtb4n5)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kennedzin1)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198333517147/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12156336211?si=8dc7b227e52149cc)
@@ -33,8 +33,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedG&layout=compact&langs_count=7&true&theme=midnight-purple"/>
 </div>
 
-
-<div style="display: inline_block"><br>
+<div align="center">
+<div style="display: inline_block">
+<br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/LuWtklenL3tXy2zMexe5cSya123r7zkBNka3AflShRY/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/493282797222494230/a_031fb54689f9759a00bfd8d30d6fa9f1.gif?width=300&height=300">
 </div>
