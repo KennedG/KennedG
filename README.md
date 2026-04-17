@@ -1,60 +1,67 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=My+Profile.)](https://www.instagram.com/guilhermekenned_/)
-
-
-- 🔭 Hoje trabalhando em Discord.js
-- 🌱Estudando JavaScript
-- 😄 Pronomes: Ele/dele
-- ✨Focado em JavaScript
-- 🎈 Quase não uso aqui.
-- 🦊 Me contate / Contact me:
-
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guilhermekenned2006@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vk8sEtb4n5)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kennedzin1)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198333517147/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12156336211?si=8dc7b227e52149cc)
-
+<h1 align="center">Guilherme Kenned 👨‍💻</h1>
 
 <p align="center">
-    <br>
-  <a href="https://discord.com/users/493282797222494230" target="_blank">
-    <img width="45%" src="https://lanyard.cnrad.dev/api/493282797222494230?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Status"/>
-    </a>
+  Desenvolvedor focado em automação, bots e soluções para assistência técnica.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Automação+de+processos;Bots+para+WhatsApp;Apps+desktop+com+PyQt5;Soluções+para+assistência+técnica;Sempre+evoluindo..." />
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+- 🔭 Trabalhando com **bots de WhatsApp e automações**
+- 🛠️ Desenvolvendo sistema profissional: **KCell Diagnóstico**
+- 💻 Criando app completo: **Tech Union Solutions**
+- 📱 Foco em soluções para **assistência técnica de celulares**
+- 🌱 Evoluindo em **JavaScript, Node.js e Python**
+- ⚡ Mentalidade: *resolver problemas reais com tecnologia*
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,sqlite,github,vscode,html,css" />
+</p>
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KennedG&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
-        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KennedG&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
-      <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KennedG&theme=midnight-purple&hide_border=true&background=151515">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedG&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedG&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-  <a href="https://github.com/KennedG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedG&layout=compact&langs_count=7&true&theme=midnight-purple"/>
-</div>
+
+---
+
+## 📱 Contato
+
+<p align="center">
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribuições
 
 <div align="center">
-<div style="display: inline_block">
-<br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/LuWtklenL3tXy2zMexe5cSya123r7zkBNka3AflShRY/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/493282797222494230/a_031fb54689f9759a00bfd8d30d6fa9f1.gif?width=300&height=300">
+  <img src="https://raw.githubusercontent.com/KennedG/KennedG/output/github-contribution-grid-snake.svg" />
 </div>
 
-##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCPWNtkJPKdJJZi0dEDWNWMw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/guilhermekenned_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/kennedg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Vk8sEtb4n5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermekenned2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+---
 
- 
-  ![Snake animation](https://github.com/KennedG/KennedG/blob/output/github-contribution-grid-snake.svg)
-</div>
-<br>
+## ⚡ Destaque
 
-<div align="center">
-    <img src="https://badges.pufler.dev/visits/KennedG/KennedG" />
-    <img src="https://badges.pufler.dev/repos/KennedG" />
-</div>
+> Construindo soluções reais para assistência técnica e automação de atendimento.
